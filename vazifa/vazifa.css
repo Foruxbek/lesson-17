@@ -1,0 +1,208 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #fff;
+}
+.div1{
+    width: 100%;
+    height: 861px;
+    background-color: aquamarine;
+    display: flex;
+}
+.div2{
+    width: 1118px;
+    height: 100%;
+    background-color: #171b2b;
+}
+.div3{
+    width: 802px;
+    height: 100%;
+    background-color: #d6edff;
+    background-image: url("./Group\ 2339.svg");
+}
+.div4{
+    width: 100%;
+    height: 119px;
+    background-color: #171b2b;
+    display: flex;
+}
+.logo{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding-left: 150px;
+    padding-top: 39px;
+    color: #fff;
+}
+.ul{
+    list-style-type: none;
+    display: flex;
+    padding-left: 159px;
+}
+.li{
+    font-size: 16px;
+    color: #fff;
+    font-family: sans-serif;
+    margin: auto 20px;
+}
+.easy{
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+    color: #fff;
+    padding-top: 119px;
+    padding-left: 150px;
+}
+.div2>h1{
+    font-family: sans-serif;
+    color: #fff;
+    font-size: 70px;
+    line-height: 84px;
+    font-weight: bold;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+.lorem{
+    font-family: sans-serif;
+    color: #fff;
+    font-size: 18px;
+    line-height: 28px;
+    padding-left: 150px;
+}
+.div5{
+    width: 654px;
+    height: 62px;
+    background-color: #fff;
+    margin-left: 150px;
+    margin-top: 46px;
+    border-radius: 8px;
+}
+.div5>input{
+    height: 28px;
+    width: 60%;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #646464;
+    margin-top: 17px;
+    margin-left: 36px;
+    border: none;
+    outline: none;
+}
+.div5>button{
+    width: 122px;
+    height: 46px;
+    background-color: #FB5E16;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-left: 90px;
+}
+.div6{
+    width: 100%;
+    height: 646px;
+    background-color: #fff;
+    margin-top: 180px;
+}
+.explore{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    color: #1B213A;
+    font-weight: bold;
+    padding-left: 212px;
+}
+.div7{
+    width: 100%;
+    height: 472px;
+    background-color: #fff;
+    margin-top: 108px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.div8{
+    width: 472px;
+    height: 472px;
+    display: flex;
+    align-items: flex-end;
+    background-image: url("./photo_2022-02-23_09-36-04.jpg");
+    background-size: contain;
+
+}
+.div9{
+    width: 100%;
+    height: 195px;
+    background-color: #fff;
+    border: 1px solid grey;
+}
+.div10{
+    width: 80%;
+    height: 74px;
+    background-color: #fff;
+    margin: 0px auto;
+    border-bottom: 1px solid grey;
+}
+.view{
+    font-family: sans-serif;
+    color: #1B213A;
+    font-size: 28px;
+    font-weight: 600;
+    padding-top: 37px;
+    padding-left: 24px;
+}
+.bad{
+    font-family: sans-serif;
+    color: #646464;
+    font-size: 18px;
+    padding-top: 29px;
+    padding-left: 24px;
+}
+.doll{
+    color: #FB5E16;
+    font-size: 21px;
+    font-weight: 600;
+    padding-top: 12px;
+    padding-left: 24px;
+}
+.christopher{
+    width: 100%;
+    height: 440px;
+    background-color: #f2f2f2;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    margin-top: 1300px;
+  }
+  
+  .christopher>h1{
+    color: #000000;
+    font-family: sans-serif;
+    padding-top: 197px;   
+  }
+  .items_christopher{
+    font-family: sans-serif;
+    color: #646464;
+    font-size: 18px;
+  }
+  .christopher>img{
+    margin-top: 6px;
+  }
+  .lorem_item{
+    width: 720px;
+    height: 85px;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    padding-top: 15px;
+  }
+  .imgggt{
+      margin-top: 1800px;
+      margin-left: 100px;
+  }
